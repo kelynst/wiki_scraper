@@ -1,4 +1,5 @@
 # 🕷️ wiki_scraper  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Python web scraper using **Requests** + **BeautifulSoup** to extract structured data from any Wikipedia category and export it into clean CSV files.  
 
